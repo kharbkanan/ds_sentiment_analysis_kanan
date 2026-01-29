@@ -1,7 +1,7 @@
 # Trader Sentiment Analysis – Data Science Internship Project
 
 **Author:** Kanan  
-**Project:** Data Science Assignment (Internship)  
+**Project:** Data Science Assignment 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab
 
 ##  Overview
