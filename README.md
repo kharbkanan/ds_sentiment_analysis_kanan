@@ -6,7 +6,6 @@
 
 ##  Overview
 This project analyzes the relationship between **trader behavior** and **market sentiment (Fear/Greed Index)** using real trading data.  
-It was submitted as part of a Data Science Internship assignment.
 
 ## Folder Contents
 
@@ -48,6 +47,5 @@ All charts are saved in the `outputs/` folder.
 ##  Notes
 
 - This project uses mock trading data and publicly available sentiment indices.
-- Created for internship evaluation purposes.
 - No sensitive or confidential data is used.
 
